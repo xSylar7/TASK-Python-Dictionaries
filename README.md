@@ -1,7 +1,8 @@
 ## Setup
 
-1. Make sure Python is set on your device. You can use the references below.
-2. You will write the code in `main.py`.
+1. Fork the [following repository](https://github.com/JoinCODED/TASK-Python-Dictionaries).
+2. Make sure Python and VSCode are set on your device. You can use the references below.
+2. You will open the code ov VSCode and write the code in `main.py`.
 3. Run the code to test it.
 
 
